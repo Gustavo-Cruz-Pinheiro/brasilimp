@@ -1,0 +1,166 @@
+*{
+	margin: 0px 0px 0px 0px;
+}
+
+.geral{
+	width: 100%;
+	height: 100%;
+}
+
+.topo{
+	width: 100%;
+	height: 15%;
+}
+
+.menu{
+	background-color: #155899;
+	width: 100%;
+	height: 10%;
+	position: absolute;
+}
+
+#m1{
+	width: 15%;
+	height: 7%;
+	position: absolute;
+}
+
+#m2{
+	width: 15%;
+	height: 7%;
+	position: absolute;
+	padding-left: 15%;
+}
+
+#m3{
+	width: 15%;
+	height: 7%;
+	position: absolute;
+	padding-left: 30%;
+}
+
+#m4{
+	width: 15%;
+	height: 7%;
+	position: absolute;
+	padding-left: 45%;
+}
+
+#m5{
+	width: 15%;
+	height: 7%;
+	position: absolute;
+	padding-left: 60%;
+}
+
+#m6{
+	width: 15%;
+	height: 7%;
+	position: absolute;
+	padding-left: 75%;
+}
+
+#m7{
+	width: 10%;
+	height: 7%;
+	position: absolute;
+	padding-left: 90%;
+}
+
+.outdoor{
+	width: 100%;
+	height: 60%;
+	margin-top: 65px;
+}
+
+.produtos{
+	width: 100%;
+	height: 60%;
+	margin-top: 65px;
+}
+
+#p1{
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+#p2{
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+#p3{
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.empresa{
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+#d1{
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+#d2{
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.contato{
+	width: 100%;
+	height: 60%;
+	padding-top: 10%;
+	margin-left: 5%;
+	margin-right: 5%;
+
+
+}
+
+/* .rodape{
+	padding-bottom: 1%;
+	margin-top: 60%;
+	width: 100%;
+	height: 10%;
+} */
+
+.rodape{
+	width: 100%;
+	height: 10%;
+	background-color: #D3D3D3;
+	margin-top: 20px;
+}
+
+h1{
+	padding-top: 7%;
+	text-align: center;
+}
+
+p {
+    display: block;
+    font: normal 15px / 25px "Open Sans", Helvetica, Arial, Verdana, sans-serif;
+    word-spacing: normal;
+    color: #676b6d;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    color: #262b2e;
+    font: normal 800 34px / 42px "Raleway", Helvetica, Arial, Verdana, sans-serif;
+    text-transform: none;
+}
+
+input.botao{
+	display: inline-block;
+	color: #ffffff;
+	background-color: #155899;
+	padding: 14px 25px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 14pt;
+	margin-left: 20px;
+	opacity: 0.9;
+}
